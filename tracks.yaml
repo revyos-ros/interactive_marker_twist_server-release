@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/interactive_marker_twist_server-release.git
 tracks:
   foxy:
     actions:
