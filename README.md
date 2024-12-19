@@ -1,3 +1,26 @@
+## interactive_marker_twist_server (jazzy) - 2.1.1-1
+
+The packages in the `interactive_marker_twist_server` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy interactive_marker_twist_server --override-release-repository-push-url git@github.com:revyos-ros/interactive_marker_twist_server-release.git` on `Thu, 19 Dec 2024 11:08:57 -0000`
+
+The `interactive_marker_twist_server` package was released.
+
+Version of package(s) in repository `interactive_marker_twist_server`:
+
+- upstream repository: https://github.com/ros-visualization/interactive_marker_twist_server.git
+- release repository: https://github.com/revyos-ros/interactive_marker_twist_server-release.git
+- rosdistro version: `2.1.1-1`
+- old version: `2.1.0-4`
+- new version: `2.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## interactive_marker_twist_server (humble) - 2.1.1-1
 
 The packages in the `interactive_marker_twist_server` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble interactive_marker_twist_server --override-release-repository-push-url git@github.com:revyos-ros/interactive_marker_twist_server-release.git` on `Thu, 12 Dec 2024 07:15:16 -0000`
